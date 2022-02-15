@@ -1,6 +1,7 @@
+### Меня зовут Игорь, и я Frontend-разработчик
+
 <img src="https://media.giphy.com/media/SyxsPAG2YH05y/giphy.gif" height="200" />
 
-### Меня зовут Игорь, и я Frontend-разработчик
 
 💻 **Мой технологический стек:**
 * HTML / CSS
@@ -11,11 +12,9 @@
 * [Angular](https://github.com/shumikhinigor/angular)
 * [TypeScript](https://github.com/shumikhinigor/typescript) 
 
-📫 **Связаться со мной:**
-* [Telegram](https://t.me/shumikhinigor)
-* [Email](mailto:dev.shumikhin@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/shumikhin-igor/)
+💼 **Портфолио:** [LinkedIn](https://www.linkedin.com/in/shumikhin-igor/)
 
+📫 **Связаться со мной:** [Telegram](https://t.me/shumikhinigor), [Email](mailto:dev.shumikhin@gmail.com)
 
 <!--
 **shumikhinigor/shumikhinigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
