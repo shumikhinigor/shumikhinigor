@@ -1,8 +1,4 @@
-<img src="https://media.giphy.com/media/LQjG4sNTQo3US9vwOn/giphy.gif" />
-
-<!-- # Здравствуй! 👋 -->
-
-<!-- <img src="https://media.giphy.com/media/2KA7sCKddBX16fTNYq/giphy.gif" height="43" /> -->
+<img src="https://media.giphy.com/media/SyxsPAG2YH05y/giphy.gif" height="200" />
 
 ### Меня зовут Игорь, и я Frontend-разработчик 🦄
 
