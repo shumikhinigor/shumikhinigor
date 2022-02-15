@@ -1,4 +1,25 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/LQjG4sNTQo3US9vwOn/giphy.gif" />
+
+<!-- # Здравствуй! 👋 -->
+
+<!-- <img src="https://media.giphy.com/media/2KA7sCKddBX16fTNYq/giphy.gif" height="43" /> -->
+
+### Меня зовут Игорь, и я Frontend-разработчик 🦄
+
+💻 **Мой технологический стек:**
+* HTML / CSS
+* JavaScript
+* Git
+* [Vue](https://github.com/shumikhinigor/vue)
+* [React](https://github.com/shumikhinigor/react)
+* [Angular](https://github.com/shumikhinigor/angular)
+* [TypeScript](https://github.com/shumikhinigor/typescript) 
+
+📫 **Связаться со мной:**
+* [Telegram](https://t.me/shumikhinigor)
+* [Email](mailto:dev.shumikhin@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/shumikhin-igor/)
+
 
 <!--
 **shumikhinigor/shumikhinigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
